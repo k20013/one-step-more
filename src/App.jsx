@@ -60,7 +60,7 @@ function App() {
               Github
             </a>
 
-            <a href="#">
+            <a href="https://caleb-bravo-personal-portfolio.vercel.app/">
               Portfolio
             </a>
           </div>
