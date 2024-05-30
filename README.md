@@ -1,8 +1,7 @@
-# React + Vite
+# One step more
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This graph shows the weeks, from a especific date, to the present, in 80 years period.
 
-Currently, two official plugins are available:
+This is a practice to notice how much time we lived, or how muchclose we are to the end.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I don´t remember this practice´s name, sorry. 
